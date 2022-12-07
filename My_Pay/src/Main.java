@@ -12,7 +12,7 @@ public class Main {
 
         long myoutmoney = 0;    // 누적 공지계산액 토탈
 
-        // 과세표준 금액 변수화
+        // 과세표준 금액 변수화111
         long[] level = new long[8];
         level[0] =         0;
         level[1] =  12000000;
